@@ -1,6 +1,6 @@
-# AI-Times.gr News Database
+# ai-times News Database
 
-This repository contains the database for AI-Times.gr, a collection of structured data scraped and processed from various news sources. Below is an overview of the structure and contents of the database.
+This repository contains the database for ai-times, a collection of structured data scraped and processed from various news sources. Below is an overview of the structure and contents of the database.
 
 ---
 
