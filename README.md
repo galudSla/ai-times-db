@@ -26,8 +26,8 @@ Each folder is named according to a specific date (e.g., `07-01-2025`) and conta
   - `source_domain`: Domain name of the source website.
   - `text`: Reserved for additional processing or data (often null initially).
   - `title`: Title of the article.
-  - `title_page`: Title as it appears on the webpage (optional).
-  - `title_rss`: Title as it appears in the RSS feed (optional).
+  - `title_page`: Title as it appears on the webpage).
+  - `title_rss`: Title as it appears in the RSS feed.
   - `url`: Original URL of the article.
 
 #### b. **Journalist JSON File**
